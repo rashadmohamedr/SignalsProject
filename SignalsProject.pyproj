@@ -42,6 +42,7 @@
     <Folder Include="api\SignalsProject\templates\" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="package.json" />
     <Content Include="requirements.txt" />
     <Content Include="api\SignalsProject\static\content\bootstrap.css" />
     <Content Include="api\SignalsProject\static\content\bootstrap.min.css" />
